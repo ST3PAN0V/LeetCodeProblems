@@ -1,25 +1,65 @@
 class Solution {
 public:
-    vector<string> summaryRanges(vector<int>& nums) {
-        int sz = nums.size();
-        vector<string> ans;
-        string path;
-        if (sz == 0) return {};
-        path += to_string(nums[0]);
-        for (int i = 1; i < sz; i++) {
-            if (nums[i-1] != nums[i]-1) {
-                if (path != to_string(nums[i-1])) {
-                    path += "->" + to_string(nums[i-1]);
+    vector<string> summaryRanges(vector<int>& nums) 
+    {
+        // Check if the input vector is empty
+        if(nums.size() == 0)
+        {
+            return {}; // Return an empty vector
+        }
+        
+        vector<string> ans; // Vector to store the summary ranges
+        int n = nums.size(); // Length of the input vector
+        
+        // Initialize variables for start, end, and a counter
+        int start = nums[0], end = nums[0], cnt = nums[0];
+        
+        // Traverse the input vector starting from the second element
+        for(int i = 1; i < n; i++)
+        {
+            // Check if the current element is consecutive to the previous element
+            if(cnt + 1 == nums[i])
+            {
+                end++; // Update the end variable
+                cnt++; // Update the counter
+            }
+            else
+            {
+                string str = ""; // String variable to store the summary range
+                
+                // Check if the start and end are different
+                if(start != end)
+                {
+                    str += to_string(start) + "->" + to_string(end); // Append the start and end to the string
+                    ans.push_back(str); // Add the string to the summary ranges vector
                 }
-                ans.push_back(path);
-                path = "";
-                path += to_string(nums[i]);
+                else
+                {
+                    str = to_string(start); // Convert the start to string
+                    ans.push_back(str); // Add the string to the summary ranges vector
+                }
+                
+                // Update the start, end, and counter variables
+                start = nums[i];
+                end = nums[i];
+                cnt = nums[i];
             }
         }
-        if (path != to_string(nums[sz-1])) {
-                    path += "->" + to_string(nums[sz-1]);
-                }
-                ans.push_back(path);
-        return ans;
+        
+        string str = ""; // String variable to store the last summary range
+        
+        // Check if the start and end are different
+        if(start != end)
+        {
+            str += to_string(start) + "->" + to_string(end); // Append the start and end to the string
+            ans.push_back(str); // Add the string to the summary ranges vector
+        }
+        else
+        {
+            str = to_string(start); // Convert the start to string
+            ans.push_back(str); // Add the string to the summary ranges vector
+        }
+        
+        return ans; // Return the summary ranges vector
     }
 };
