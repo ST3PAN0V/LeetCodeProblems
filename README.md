@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0066-plus-one) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
@@ -52,4 +53,12 @@
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
