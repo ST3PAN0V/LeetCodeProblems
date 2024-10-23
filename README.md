@@ -29,16 +29,23 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
