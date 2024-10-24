@@ -9,6 +9,7 @@
 | [0008-string-to-integer-atoi](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0058-length-of-last-word) |
+| [0443-string-compression](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0443-string-compression) |
 ## Trie
 |  |
 | ------- |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
