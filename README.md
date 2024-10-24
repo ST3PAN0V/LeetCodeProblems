@@ -37,18 +37,21 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
+| [0988-flip-equivalent-binary-trees](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
+| [0988-flip-equivalent-binary-trees](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
+| [0988-flip-equivalent-binary-trees](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 ## Linked List
 |  |
 | ------- |
