@@ -19,6 +19,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0228-summary-ranges](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0228-summary-ranges) |
+| [0879-maximize-distance-to-closest-person](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0879-maximize-distance-to-closest-person) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
