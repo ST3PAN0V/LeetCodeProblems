@@ -15,6 +15,7 @@
 | [0125-valid-palindrome](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0567-permutation-in-string) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Trie
 |  |
 | ------- |
