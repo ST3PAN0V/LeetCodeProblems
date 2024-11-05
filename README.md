@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
@@ -120,4 +123,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
