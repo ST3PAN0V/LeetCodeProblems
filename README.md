@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0228-summary-ranges](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0283-move-zeroes) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0658-find-k-closest-elements](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1019-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
