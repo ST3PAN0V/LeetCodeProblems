@@ -28,6 +28,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0879-maximize-distance-to-closest-person](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0879-maximize-distance-to-closest-person) |
+| [1019-squares-of-a-sorted-array](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1019-squares-of-a-sorted-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
@@ -86,6 +87,7 @@
 | [0443-string-compression](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
+| [1019-squares-of-a-sorted-array](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0658-find-k-closest-elements](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
+| [1019-squares-of-a-sorted-array](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1019-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
