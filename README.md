@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0020-valid-parentheses) |
@@ -79,6 +80,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -90,6 +92,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0443-string-compression) |
