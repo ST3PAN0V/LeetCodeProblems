@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0066-plus-one) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0155-min-stack) |
 ## Tree
@@ -84,6 +86,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -96,6 +99,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0443-string-compression) |
@@ -141,4 +145,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
