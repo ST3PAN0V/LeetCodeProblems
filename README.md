@@ -30,6 +30,7 @@
 | [0049-group-anagrams](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0228-summary-ranges](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
@@ -41,12 +42,14 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0155-min-stack) |
 ## Tree
 |  |
