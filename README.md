@@ -33,6 +33,7 @@
 | [0056-merge-intervals](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0228-summary-ranges](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0283-move-zeroes) |
@@ -170,6 +171,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0135-candy) |
 | [0680-valid-palindrome-ii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [2352-design-an-atm-machine](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2352-design-an-atm-machine) |
 <!---LeetCode Topics End-->
