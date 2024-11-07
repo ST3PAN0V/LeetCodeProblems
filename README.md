@@ -45,6 +45,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1019-squares-of-a-sorted-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2352-design-an-atm-machine](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2352-design-an-atm-machine) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Math
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0567-permutation-in-string) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -181,4 +183,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Counting
+|  |
+| ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 <!---LeetCode Topics End-->
