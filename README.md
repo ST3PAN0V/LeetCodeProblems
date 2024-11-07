@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0206-reverse-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -176,4 +177,8 @@
 | [0135-candy](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0135-candy) |
 | [0680-valid-palindrome-ii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [2352-design-an-atm-machine](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2352-design-an-atm-machine) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
