@@ -44,6 +44,7 @@
 | [0658-find-k-closest-elements](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0879-maximize-distance-to-closest-person](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0879-maximize-distance-to-closest-person) |
 | [1019-squares-of-a-sorted-array](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1019-squares-of-a-sorted-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2352-design-an-atm-machine](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2352-design-an-atm-machine) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -153,6 +154,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0567-permutation-in-string) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Prefix Sum
