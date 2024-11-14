@@ -38,6 +38,7 @@
 | [0066-plus-one](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0228-summary-ranges](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
@@ -201,6 +202,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0136-single-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Counting
