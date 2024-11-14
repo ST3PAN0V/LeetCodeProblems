@@ -57,6 +57,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Stack
