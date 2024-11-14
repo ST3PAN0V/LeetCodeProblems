@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0056-merge-intervals) |
@@ -134,6 +135,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 ## Sorting
