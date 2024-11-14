@@ -76,6 +76,7 @@
 | [0098-validate-binary-search-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
@@ -84,6 +85,7 @@
 | [0098-validate-binary-search-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
@@ -92,6 +94,7 @@
 | [0098-validate-binary-search-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 ## Linked List
 |  |
@@ -110,6 +113,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
