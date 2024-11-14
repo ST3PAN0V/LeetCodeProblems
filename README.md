@@ -77,6 +77,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
@@ -86,6 +87,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
@@ -95,6 +97,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 ## Linked List
 |  |
