@@ -69,6 +69,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0155-min-stack) |
+| [0341-flatten-nested-list-iterator](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0341-flatten-nested-list-iterator) |
 ## Tree
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0341-flatten-nested-list-iterator) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
@@ -88,6 +90,7 @@
 | [0112-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0341-flatten-nested-list-iterator) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0988-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
@@ -192,6 +195,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0155-min-stack) |
+| [0341-flatten-nested-list-iterator](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0341-flatten-nested-list-iterator) |
 | [2352-design-an-atm-machine](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2352-design-an-atm-machine) |
 ## Monotonic Stack
 |  |
@@ -225,4 +229,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
