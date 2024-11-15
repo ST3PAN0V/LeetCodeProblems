@@ -18,6 +18,7 @@
 | [0076-minimum-window-substring](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
@@ -120,6 +121,7 @@
 | [0022-generate-parentheses](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -139,6 +141,7 @@
 | [0125-valid-palindrome](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
