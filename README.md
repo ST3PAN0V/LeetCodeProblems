@@ -199,6 +199,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0155-min-stack) |
 | [0341-flatten-nested-list-iterator](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0341-flatten-nested-list-iterator) |
+| [0969-number-of-recent-calls](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0969-number-of-recent-calls) |
 | [2352-design-an-atm-machine](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2352-design-an-atm-machine) |
 ## Monotonic Stack
 |  |
@@ -236,8 +237,13 @@
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0341-flatten-nested-list-iterator) |
+| [0969-number-of-recent-calls](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0969-number-of-recent-calls) |
 ## Iterator
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0341-flatten-nested-list-iterator) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
