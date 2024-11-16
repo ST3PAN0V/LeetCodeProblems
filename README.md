@@ -49,6 +49,7 @@
 | [0658-find-k-closest-elements](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0879-maximize-distance-to-closest-person](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0879-maximize-distance-to-closest-person) |
 | [1019-squares-of-a-sorted-array](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1547-destination-city](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1547-destination-city) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -130,6 +131,7 @@
 | [0076-minimum-window-substring](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
+| [1046-max-consecutive-ones-iii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
@@ -153,6 +155,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
+| [1046-max-consecutive-ones-iii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -186,6 +189,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search Tree
 |  |
 | ------- |
