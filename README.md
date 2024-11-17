@@ -44,6 +44,7 @@
 | [0228-summary-ranges](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
@@ -127,6 +128,7 @@
 | [0022-generate-parentheses](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1046-max-consecutive-ones-iii) |
