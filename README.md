@@ -23,6 +23,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0768-partition-labels) |
 | [1547-destination-city](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1547-destination-city) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Trie
@@ -160,6 +161,7 @@
 | [0567-permutation-in-string](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0768-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -193,6 +195,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0768-partition-labels) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1547-destination-city](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1547-destination-city) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -227,6 +230,7 @@
 | ------- |
 | [0135-candy](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0135-candy) |
 | [0680-valid-palindrome-ii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0768-partition-labels) |
 | [2352-design-an-atm-machine](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2352-design-an-atm-machine) |
 ## Recursion
 |  |
