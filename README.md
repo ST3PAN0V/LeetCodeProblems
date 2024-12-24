@@ -276,4 +276,8 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0969-number-of-recent-calls) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
