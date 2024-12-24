@@ -280,4 +280,5 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0182-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
