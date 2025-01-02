@@ -25,6 +25,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0768-partition-labels) |
 | [1547-destination-city](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1547-destination-city) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Trie
 |  |
@@ -60,6 +61,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2352-design-an-atm-machine](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2352-design-an-atm-machine) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Math
 |  |
@@ -212,6 +214,7 @@
 | [0238-product-of-array-except-self](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/1046-max-consecutive-ones-iii) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/ST3PAN0V/LeetCodeProblems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Binary Search Tree
 |  |
 | ------- |
